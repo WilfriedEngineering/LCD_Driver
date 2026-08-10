@@ -9,9 +9,9 @@ Detailed documentation will be added progressively.
 
 ## Supported LCD Modules
 
-* **LM016L** — 16 × 2 character Display
-* **LM020L** — 16 × 1 character Display
-* **LM041L** — 16 × 4 character Display
+* **LM016L** — 16 × 2 character Digits
+* **LM020L** — 16 × 1 character Digits
+* **LM041L** — 16 × 4 character Digits
 
 ## Contents
 
