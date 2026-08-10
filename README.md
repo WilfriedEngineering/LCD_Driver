@@ -26,7 +26,6 @@ Detailed documentation will be added progressively.
 
 * **MCU:** Microchip PIC16F87XA Family
 * **Compiler:** MPLAB XC8
-* **Interface:** Parallel character LCD
 * **LCD Modules:** LM016L, LM020L, and LM041L
  
 
