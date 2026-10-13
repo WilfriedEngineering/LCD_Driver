@@ -17,7 +17,6 @@ Detailed documentation will be added progressively.
 
 * LCD Driver source files
 * Demo application
-* Proteus simulation
 * Compiled HEX firmware
 * Test schematic
 * Test demonstration video
